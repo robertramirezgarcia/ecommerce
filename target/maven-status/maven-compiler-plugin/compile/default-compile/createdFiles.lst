@@ -1,0 +1,7 @@
+com\ecommerce\controller\WebController.class
+com\ecommerce\model\Curso.class
+com\ecommerce\demo\DemoApplication.class
+com\ecommerce\exception\ResourceNotFoundException.class
+com\ecommerce\repository\CursoRepository.class
+com\ecommerce\service\ICursoService.class
+com\ecommerce\service\CursoService.class
